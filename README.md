@@ -16,7 +16,7 @@
 
 Desenvolvedor focado em **Backend, Engenharia de Software e Banco de Dados**, com vivência em arquiteturas web escaláveis e projetos B2B reais. Trabalho com Node.js, TypeScript e PostgreSQL no dia a dia — e busco me diferenciar pelo uso estratégico de IA no ciclo de desenvolvimento.
 
-- Cursando Ciência da Computação na **UFSCar** (conclusão - FIm de 2027 — 2 disciplina pendente)
+- Cursando Ciência da Computação na **UFSCar** (conclusão - FIm de 2027 — 2 disciplina pendentes)
 - Experiência profissional em **Magrass / LookMe** — automação, APIs e plataformas médicas
 - Certificação oficial **Anthropic — Engenharia de Prompt com Claude**
 - Co-fundador técnico do **PecasBrasil** — marketplace B2B de autopeças
@@ -75,11 +75,3 @@ Desenvolvedor focado em **Backend, Engenharia de Software e Banco de Dados**, co
 [![Python](https://img.shields.io/badge/Python-Certificação-3776AB?style=flat&logo=python&logoColor=white)](#)
 
 ---
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JLGPelegrino&theme=default&hide_border=true&locale=pt_BR)](https://github.com/JLGPelegrino)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=JLGPelegrino&theme=flat&no-frame=true&column=6&margin-w=8)](https://github.com/JLGPelegrino)
-
-</div>
